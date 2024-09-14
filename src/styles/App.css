@@ -1,0 +1,7 @@
+#root {
+    padding: 10px;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
